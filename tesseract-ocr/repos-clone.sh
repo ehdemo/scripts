@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ${SRC_DIR}
+
 # Clone tesseract
 git clone https://github.com/tesseract-ocr/tesseract
 
